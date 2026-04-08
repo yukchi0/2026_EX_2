@@ -1,4 +1,6 @@
-# 제목 이서환의 Future CV
+# 제목 
+
+이서환의 Future CV
 
 ## 자기 소개
 
